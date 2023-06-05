@@ -1,0 +1,9 @@
+.essay-correction-hub {
+  background-color: pink;
+  position: relative;
+  display: grid;
+  height: 100%;
+  width: 100%;
+  gap: 1rem;
+  grid-template-columns: 3fr 1fr;
+}

@@ -1,0 +1,22 @@
+.sidebar-overview {
+  background-color: rgb(126, 216, 255);
+  min-height: 50px;
+  display: flex;
+  flex-direction: column;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+#overview-controller {
+  display: block;
+  user-select: none;
+}
+
+#overview-controller:hover {
+  cursor: pointer;
+}
+
+.sidebar-overview span {
+  padding: 0.2em;
+  display: block;
+}
